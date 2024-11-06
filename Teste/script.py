@@ -9,7 +9,7 @@ CLIENT = InferenceHTTPClient(
 )
 
 # Diretório onde as imagens estão e onde as imagens com bounding boxes serão salvas
-image_dir = "images"
+image_dir = "teste/images"
 output_dir = "images_com_boxes"
 
 # Criar o diretório de saída se não existir
